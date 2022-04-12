@@ -1,6 +1,7 @@
-[![Header](https://raw.githubusercontent.com/shnn217/shnn217/shnn217/ "Header")]
 
-<h1 align="center">Hi 👋, I'm Eric Lin</h1>
+<img align="right" src="https://raw.githubusercontent.com/shnn217/shnn217/master/IMG_7288.png" alt="header" height="350" width="300">
+
+<h1 align="center">Hello world! 👋, I'm Eric Lin</h1>
 <h3 align="center">A passionate software developer and data scientist from Taiwan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shnn217&label=Profile%20views&color=0e75b6&style=flat" alt="shnn217" /> </p>
